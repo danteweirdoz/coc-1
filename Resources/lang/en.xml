@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <key>username</key>
+        <string>User Name</string>
+        <key>userpassword</key>
+        <string>Password</string>
+        <key>msgbox_notice</key>
+        <string>Notice</string>
+        <key>login_check</key>
+        <string>Please input UserName and Password！</string>
+        <key>password_error</key>
+        <string>UserName or Password is wrong！</string>
+    </dict>
+</plist>
